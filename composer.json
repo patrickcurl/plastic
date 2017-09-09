@@ -1,18 +1,13 @@
 {
-  "name": "patrickcurl/plastic",
+  "name": "sleimanx2/plastic",
   "license": "MIT",
-  "description": "Plastic is an Elasticsearch ODM and mapper for Laravel. It renders the developer experience more enjoyable while using Elasticsearch by providing a fluent syntax for mapping , querying and storing eloquent models. This is a temporary fork -- w/ Laravel 5.5 support",
+  "description": "Plastic is an Elasticsearch ODM and mapper for Laravel. It renders the developer experience more enjoyable while using Elasticsearch by providing a fluent syntax for mapping , querying and storing eloquent models.",
   "keywords": ["elasticsearch","elastic","laravel","eloquent","model","ODM","mapper"],
-  "homepage": "https://github.com/patrickcurl/plastic",
+  "homepage": "https://github.com/sleimanx2/plastic",
   "authors": [
     {
       "name": "Sleiman Sleiman",
       "email": "sleiman@outlook.com",
-      "role": "Developer"
-    }, 
-    {
-      "name": "Patrick Curl",
-      "email": "patrickwcurl@gmail.com",
       "role": "Developer"
     }
   ],
